@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>I Remember Falling Piece by Piece</title>
   <style>
-    body {
+    body { 
       background-color: #d4e7ff; 
       font-family: 'Georgia', serif;
       line-height: 1.8;
